@@ -1,0 +1,16 @@
+package com.angus.pattern;
+
+/** 
+ * @author GuangSIR 
+ * @date 2018年3月15日 下午9:24:13 
+ * @version 1.0 
+ */
+public class TextBox extends Component {
+
+	@Override
+	public void display() {
+		// TODO Auto-generated method stub
+
+	}
+
+}

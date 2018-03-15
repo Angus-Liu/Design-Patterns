@@ -1,0 +1,10 @@
+package com.angus.pattern;
+
+/** 
+ * @author GuangSIR 
+ * @date 2018年3月15日 下午9:32:18 
+ * @version 1.0 
+ */
+public class BlackBorderDecorator extends ComponentDecorator {
+
+}

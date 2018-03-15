@@ -1,0 +1,49 @@
+package com.angus.project;
+
+/** 
+ * @author GuangSIR 
+ * @date 2018年3月15日 上午8:54:21 
+ * @version 1.0 
+ */
+// 工作周报WeeklyLog：具体原型类
+public class WeeklyLog implements Cloneable {
+	private String name;
+	private String date;
+	private String content;
+
+	public String getName() {
+		return name;
+	}
+
+	public void setName(String name) {
+		this.name = name;
+	}
+
+	public String getDate() {
+		return date;
+	}
+
+	public void setDate(String date) {
+		this.date = date;
+	}
+
+	public String getContent() {
+		return content;
+	}
+
+	public void setContent(String content) {
+		this.content = content;
+	}
+
+	@Override
+	protected WeeklyLog clone() {
+		WeeklyLog log = null;
+		try {
+			log = (WeeklyLog) super.clone();
+		} catch (CloneNotSupportedException e) {
+			System.out.println("不支持克隆");
+		}
+		return log;
+	}
+
+}

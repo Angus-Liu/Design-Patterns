@@ -1,0 +1,7 @@
+<?xml version="1.0"?>  
+<config>  
+    <!--RefinedAbstraction-->  
+    <className>com.angus.project.JPGImage</className>   
+    <!--ConcreteImplementor-->  
+    <className>com.angus.project.WindowsImp</className>  
+</config> 

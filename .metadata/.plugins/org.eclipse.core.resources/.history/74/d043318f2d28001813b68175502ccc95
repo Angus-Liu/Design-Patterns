@@ -1,0 +1,15 @@
+package com.angus.project;
+
+/** 
+ * @author GuangSIR 
+ * @date 2018年3月15日 下午4:45:26 
+ * @version 1.0 
+ */
+public class Client {
+	public static void main(String[] args) {
+		Image image = new GIFImage();
+		ImageImp imp = new LinuxImp();
+		image.setImageImp(imp);
+		image.parseFile("梵高");
+	}
+}

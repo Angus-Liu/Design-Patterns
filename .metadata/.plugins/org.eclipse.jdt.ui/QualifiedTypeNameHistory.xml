@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<qualifiedTypeNameHistroy>
+<fullyQualifiedTypeName name="com.angus.pattern.ConcreteProductA"/>
+<fullyQualifiedTypeName name="com.angus.pattern.ConcreteProductB"/>
+<fullyQualifiedTypeName name="com.angus.pattern.Product"/>
+<fullyQualifiedTypeName name="java.time.Period"/>
+<fullyQualifiedTypeName name="javax.xml.parsers.DocumentBuilderFactory"/>
+<fullyQualifiedTypeName name="javax.xml.parsers.DocumentBuilder"/>
+<fullyQualifiedTypeName name="javax.swing.text.Document"/>
+<fullyQualifiedTypeName name="java.io.File"/>
+<fullyQualifiedTypeName name="org.w3c.dom.NodeList"/>
+<fullyQualifiedTypeName name="javax.xml.soap.Node"/>
+<fullyQualifiedTypeName name="org.w3c.dom.Document"/>
+<fullyQualifiedTypeName name="org.w3c.dom.Node"/>
+<fullyQualifiedTypeName name="com.angus.pattern.Factory"/>
+<fullyQualifiedTypeName name="com.angus.pattern.ConcreteFactory"/>
+<fullyQualifiedTypeName name="com.angus.project.LoggerFactory"/>
+<fullyQualifiedTypeName name="com.angus.project.Logger"/>
+<fullyQualifiedTypeName name="com.angus.project.XMLUtil"/>
+<fullyQualifiedTypeName name="java.awt.List"/>
+<fullyQualifiedTypeName name="java.util.List"/>
+<fullyQualifiedTypeName name="java.util.ArrayList"/>
+<fullyQualifiedTypeName name="java.util.Random"/>
+<fullyQualifiedTypeName name="java.rmi.server.ServerCloneException"/>
+<fullyQualifiedTypeName name="java.lang.String"/>
+<fullyQualifiedTypeName name="com.angus.project.LoadBalancer"/>
+<fullyQualifiedTypeName name="com.angus.project.LoadBalancer.LoadBalancerHolder"/>
+</qualifiedTypeNameHistroy>

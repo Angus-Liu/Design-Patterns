@@ -1,0 +1,10 @@
+package com.angus.project;
+
+/** 
+ * @author GuangSIR 
+ * @date 2018年3月15日 下午8:09:44 
+ * @version 1.0 
+ */
+abstract class AbstractFile {
+
+}

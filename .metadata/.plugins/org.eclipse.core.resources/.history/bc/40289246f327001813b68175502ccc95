@@ -1,0 +1,10 @@
+package com.angus.prototypemanager;
+
+/** 
+ * @author GuangSIR 
+ * @date 2018年3月15日 上午9:49:24 
+ * @version 1.0 
+ */
+public interface OfficialDocument {
+
+}

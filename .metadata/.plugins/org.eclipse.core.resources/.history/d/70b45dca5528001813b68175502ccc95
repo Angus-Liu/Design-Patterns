@@ -1,0 +1,10 @@
+package com.angus.pattern;
+
+/** 
+ * @author GuangSIR 
+ * @date 2018年3月15日 下午9:34:22 
+ * @version 1.0 
+ */
+public class Client {
+
+}

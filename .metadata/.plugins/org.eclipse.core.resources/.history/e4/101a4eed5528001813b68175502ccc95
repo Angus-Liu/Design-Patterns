@@ -1,0 +1,19 @@
+package com.angus.pattern;
+
+/** 
+ * @author GuangSIR 
+ * @date 2018年3月15日 下午9:34:22 
+ * @version 1.0 
+ */
+public class Client {
+	public static void main(String[] args) {
+		Component component;
+		ComponentDecorator decorator;
+		
+		component = new ListBox();
+		component.display();
+		System.out.println("----------------------");
+		decorator = new BlackBorderDecorator(component);
+		decorator.display();
+	}
+}

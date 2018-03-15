@@ -1,0 +1,10 @@
+package com.angus.pattern;
+
+/** 
+ * @author GuangSIR 
+ * @date 2018年3月13日 下午9:35:34 
+ * @version 1.0 
+ */
+public class ConcreteFactory {
+
+}
