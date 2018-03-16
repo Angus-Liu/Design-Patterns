@@ -18,7 +18,7 @@ public class Client {
 		componentBB.display();
 		System.out.println("----------------------");
 		// 希望得到一个既有滚动条又有黑色边框的窗体
-		componentBBSB = new BlackBorderDecorator(new ScrollBarDecorator(componentBB));
+		componentBBSB = new ScrollBarDecorator(componentBB);
 		componentBBSB.display();
 	}
 }

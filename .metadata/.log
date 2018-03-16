@@ -592,3 +592,41 @@ org.eclipse.recommenders.utils.Logs$LogTraceException
 	at java.util.concurrent.ThreadPoolExecutor.runWorker(Unknown Source)
 	at java.util.concurrent.ThreadPoolExecutor$Worker.run(Unknown Source)
 	at java.lang.Thread.run(Unknown Source)
+!SESSION 2018-03-16 16:11:47.504 -----------------------------------------------
+eclipse.buildId=4.6.3.M20170301-0400
+java.version=1.8.0_131
+java.vendor=Oracle Corporation
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=zh_CN
+Framework arguments:  -product org.eclipse.epp.package.jee.product
+Command-line arguments:  -os win32 -ws win32 -arch x86_64 -product org.eclipse.epp.package.jee.product
+
+!ENTRY org.eclipse.egit.ui 2 0 2018-03-16 16:12:08.958
+!MESSAGE Warning: The environment variable HOME is not set. The following directory will be used to store the Git
+user global configuration and to define the default location to store repositories: 'C:\Users\GuangSIR'. If this is
+not correct please set the HOME environment variable and restart Eclipse. Otherwise Git for Windows and
+EGit might behave differently since they see different configuration options.
+This warning can be switched off on the Team > Git > Confirmations and Warnings preference page.
+
+!ENTRY org.eclipse.oomph.setup.ui 1 0 2018-03-16 16:12:19.141
+!MESSAGE Setup tasks were performed during startup updating 71 preferences. See 'D:\Program_IDE\Eclipse EE\configuration\org.eclipse.oomph.setup\setup.log' for details
+
+!ENTRY org.eclipse.jface.text 2 0 2018-03-16 16:25:59.882
+!MESSAGE Duplicate template id: 'org.eclipse.wst.xslt.templates.xpath.number'
+
+!ENTRY org.eclipse.jface.text 2 0 2018-03-16 16:25:59.883
+!MESSAGE Duplicate template id: 'org.eclipse.wst.xslt.templates.xpath.round'
+
+!ENTRY org.eclipse.jface.text 2 0 2018-03-16 16:31:55.658
+!MESSAGE Duplicate template id: 'org.eclipse.wst.xslt.templates.xpath.number'
+
+!ENTRY org.eclipse.jface.text 2 0 2018-03-16 16:31:55.659
+!MESSAGE Duplicate template id: 'org.eclipse.wst.xslt.templates.xpath.round'
+
+!ENTRY org.eclipse.equinox.p2.metadata.repository 4 1000 2018-03-16 16:36:37.550
+!MESSAGE No repository found at http://download.eclipse.org.
+
+!ENTRY org.eclipse.equinox.p2.metadata.repository 4 1000 2018-03-16 16:36:48.232
+!MESSAGE No repository found at http://www.eclipse.org/windowbuilder/download.php.
+
+!ENTRY org.eclipse.equinox.p2.metadata.repository 4 1000 2018-03-16 16:36:59.406
+!MESSAGE No repository found at http://www.eclipse.org/downloads.

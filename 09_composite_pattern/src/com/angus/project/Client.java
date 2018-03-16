@@ -33,6 +33,6 @@ public class Client {
 		folder1.add(folder4);
 		
 		// 从“我的资料”节点进行杀毒操作
-		folder3.killVirus();
+		folder1.killVirus();
 	}
 }

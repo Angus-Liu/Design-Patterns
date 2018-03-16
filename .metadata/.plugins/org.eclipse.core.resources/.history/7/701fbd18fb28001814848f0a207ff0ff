@@ -1,0 +1,10 @@
+package com.angus.pattern;
+
+/** 
+ * @author GuangSIR 
+ * @date 2018年3月16日 下午5:16:10 
+ * @version 1.0 
+ */
+public class Decoder {
+
+}

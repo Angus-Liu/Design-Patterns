@@ -1,4 +1,5 @@
-//日志记录器接口：抽象产品  
-interface Logger {  
-  public void writeLog();  
-}  
+  public  abstract void buildType();
+       public  abstract void buildSex();
+       public  abstract void buildFace();
+       public  abstract void buildCostume();
+       public  abstract void buildHairstyle();
