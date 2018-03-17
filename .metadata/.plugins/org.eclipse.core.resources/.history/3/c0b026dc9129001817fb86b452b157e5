@@ -1,0 +1,22 @@
+package com.angus.calculator;
+
+/** 
+ * @author GuangSIR 
+ * @date 2018年3月17日 上午11:18:19 
+ * @version 1.0 
+ */
+public class ConcreteCommand extends AbstractComand {
+
+	@Override
+	public int execute(int value) {
+		// TODO Auto-generated method stub
+		return 0;
+	}
+
+	@Override
+	public int undo() {
+		// TODO Auto-generated method stub
+		return 0;
+	}
+
+}

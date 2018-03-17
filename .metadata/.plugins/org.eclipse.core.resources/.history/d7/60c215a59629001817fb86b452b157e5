@@ -1,0 +1,27 @@
+package com.angus.calculator;
+
+import java.util.ArrayList;
+import java.util.List;
+
+/** 
+ * @author GuangSIR 
+ * @date 2018年3月17日 上午11:35:40 
+ * @version 1.0 
+ */
+public class CommandList {
+	int index = 0;
+	private List<AbstractCommand> commands = new ArrayList<>();
+	
+	public void addCommand(AbstractCommand cmd){
+		index++;
+		commands.add(cmd);
+	}
+	
+	public void removeCommand(int i){
+		commands.remove(i);
+	}
+	
+	public AbstractCommand getCommand(){
+		return commands.get(--index);
+	}
+}

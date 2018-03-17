@@ -1,0 +1,10 @@
+package com.angus.project;
+
+/** 
+ * @author GuangSIR 
+ * @date 2018年3月17日 上午9:24:36 
+ * @version 1.0 
+ */
+public abstract class Command {
+
+}
