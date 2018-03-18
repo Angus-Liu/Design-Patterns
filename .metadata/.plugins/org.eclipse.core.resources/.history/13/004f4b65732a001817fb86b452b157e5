@@ -1,0 +1,22 @@
+package com.angus.project;
+
+/** 
+ * @author GuangSIR 
+ * @date 2018年3月18日 下午2:12:33 
+ * @version 1.0 
+ */
+public class HRDepartment extends Department {
+
+	@Override
+	public void visit(FulltimeEmployee employee) {
+		// TODO Auto-generated method stub
+
+	}
+
+	@Override
+	public void visit(ParttimeEmployee employee) {
+		// TODO Auto-generated method stub
+
+	}
+
+}

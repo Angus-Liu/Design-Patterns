@@ -1,0 +1,16 @@
+package com.angus.project;
+
+/** 
+ * @author GuangSIR 
+ * @date 2018年3月18日 下午2:09:09 
+ * @version 1.0 
+ */
+public class ParttimeEmployee implements Employee {
+
+	@Override
+	public void accept(Department handler) {
+		// TODO Auto-generated method stub
+
+	}
+
+}

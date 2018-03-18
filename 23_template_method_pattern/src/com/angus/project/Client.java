@@ -1,0 +1,13 @@
+package com.angus.project;
+
+/** 
+ * @author GuangSIR 
+ * @date 2018年3月18日 下午1:26:20 
+ * @version 1.0 
+ */
+public class Client {
+	public static void main(String[] args) {
+		Account account = (Account) XMLUtil.getBean();
+		account.handle("Angus", "123");
+	}
+}

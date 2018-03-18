@@ -1,0 +1,16 @@
+package com.angus.project;
+
+/** 
+ * @author GuangSIR 
+ * @date 2018年3月17日 下午7:28:59 
+ * @version 1.0 
+ */
+public class List extends Component {
+
+	@Override
+	public void update() {
+		// TODO Auto-generated method stub
+
+	}
+
+}
