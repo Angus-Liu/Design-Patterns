@@ -1,4 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<session version="1.0">
-<refactoring comment="Rename type &apos;com.angus.project.DecilBuilder&apos; to &apos;DevilBuilder&apos;&#x0D;&#x0A;- Original project: &apos;06_builder_pattern&apos;&#x0D;&#x0A;- Original element: &apos;com.angus.project.DecilBuilder&apos;&#x0D;&#x0A;- Renamed element: &apos;com.angus.project.DevilBuilder&apos;&#x0D;&#x0A;- Update references to refactored element&#x0D;&#x0A;- Update textual occurrences in comments and strings" description="Rename type &apos;DecilBuilder&apos;" flags="589830" id="org.eclipse.jdt.ui.rename.type" input="/src&lt;com.angus.project{DecilBuilder.java[DecilBuilder" matchStrategy="1" name="DevilBuilder" qualified="false" references="true" similarDeclarations="false" stamp="1521085569937" textual="false" version="1.0"/>
-</session>

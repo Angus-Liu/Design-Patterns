@@ -1,4 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<session version="1.0">
-<refactoring comment="Rename local variable &apos;chess&apos; in &apos;com.angus.project.Client.display(...)&apos; to &apos;chessman&apos;&#x0D;&#x0A;- Original project: &apos;19_memento_pattern&apos;&#x0D;&#x0A;- Original element: &apos;com.angus.project.Client.display(Chessman).chess&apos;&#x0D;&#x0A;- Renamed element: &apos;chess&apos;&#x0D;&#x0A;- Update references to refactored element" description="Rename local variable &apos;chess&apos;" id="org.eclipse.jdt.ui.rename.local.variable" input="/src&lt;com.angus.project{Client.java[Client~display~QChessman;@chess!431!444!440!444!QChessman;!0!true" name="chessman" references="true" stamp="1521290804615" version="1.0"/>
-</session>
